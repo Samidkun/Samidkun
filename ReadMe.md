@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzR3eXF4ZzR3eXF4ZzR3eXF4ZzR3eXF4ZzR3eXF4ZzR3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVr9W5RIc/giphy.gif](https://i.pinimg.com/originals/09/89/9d/09899d533a04d0c8552bf94b6da42350.gif)](https://i.pinimg.com/originals/09/89/9d/09899d533a04d0c8552bf94b6da42350.gif)" width="100%" alt="Coding GIF">
+  <img src="https://i.pinimg.com/originals/09/89/9d/09899d533a04d0c8552bf94b6da42350.gif" width="100%" alt="Coding GIF">
 </div>
 ---
 # 🛠️ About Me:
